@@ -1,3 +1,6 @@
+<!-- moved-to-monorepo -->
+> **Archived. The maintained tools are in [probityai/probity](https://github.com/probityai/probity). Star and follow it there.** Tags and releases here keep working.
+
 # Probity Gate
 
 This public repository is frozen as a reference for the October 10, 2026 customer-support simulation, with usable commands and retained results. It is not a production service.
