@@ -1,5 +1,5 @@
 <!-- moved-to-monorepo -->
-> **Archived. The maintained tools are in [probityai/probity](https://github.com/probityai/probity). Star and follow it there.** Tags and releases here keep working.
+> **No longer maintained. The maintained tools are in [probityai/probity](https://github.com/probityai/probity). Star and follow it there.** This repository is archived and has no planned delete date; its tags and releases keep working.
 
 # Probity Gate
 
